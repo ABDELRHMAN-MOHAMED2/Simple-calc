@@ -3,7 +3,7 @@
    ## Description
      This project is a simple calculator implemented in C++.
 
-     ## Features
+    ## Features
      - Addition
      - Subtraction
      - Multiplication
